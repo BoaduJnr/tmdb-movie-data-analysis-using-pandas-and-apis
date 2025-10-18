@@ -19,25 +19,6 @@ The goal is to:
 - **Jupyter Notebook / VS Code** – for interactive exploration
 - **TMDB API** – source of movie data
 
----
-
-## 📂 Project Structure
-
-TMDB-Movie-Data-Analysis/
-│
-├── data/
-│ ├── raw_data.json # Original movie data fetched from TMDB API
-│ └── cleaned_data.csv # Processed and cleaned dataset (output)
-│
-├── notebooks/
-│ └── tmdb_cleaning.ipynb # Jupyter notebook with all steps
-│
-├── scripts/
-│ └── clean_tmdb_data.py # Python script for data cleaning
-│
-├── README.md # Project documentation (this file)
-└── requirements.txt # Python dependencies
-
 ## 📂 Clone the Repository
 
 - **git clone https://github.com/BoaduJnr/tmdb-movie-data-analysis-using-pandas-and-apis.git**
